@@ -1,7 +1,7 @@
 {
   "id": "wysiwyg-editor",
   "name": "wysiwyg-editor",
-  "srcdoc": "./index.html",
+  "srcdoc": "index.html",
   "fieldTypes": [
     "Text"
   ]
