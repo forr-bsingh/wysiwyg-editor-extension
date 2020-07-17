@@ -1,7 +1,7 @@
 {
-  "id": "forrester-wysiwyg-editor",
-  "name": "forrester-wysiwyg-editor",
-  "srcdoc": "./build/index.html",
+  "id": "wysiwyg-editor",
+  "name": "wysiwyg-editor",
+  "srcdoc": "./index.html",
   "fieldTypes": [
     "Text"
   ]
